@@ -44,8 +44,8 @@ We may update this privacy policy from time to time. Changes will be reflected b
 
 ## Contact
 For questions about this privacy policy, contact:
-- **Email:** rajdhanitelecom@gmail.com
-- **Developer:** Rajdhani Telecom, Moradabad, India
+- **Email:** shanicrantz3@gmail.com
+- **Developer:** Sana Adiba (Rajdhani Telecom), Moradabad, India
 
 ---
 *This app does not collect, store, or transmit any personal data to external servers.*
